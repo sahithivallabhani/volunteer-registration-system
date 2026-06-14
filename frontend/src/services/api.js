@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://volunteer-registration-system-1.onrender.com/api';
 
 // Helper to get headers with JWT if available
 const getHeaders = () => {
